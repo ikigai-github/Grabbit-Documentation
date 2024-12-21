@@ -264,7 +264,7 @@ data Market = Market
   { terms :: MarketTerms }
 ```
 ---
-## Dependency Graph of Grabbit protocal
+## Dependency Graph of Grabbit Protocol
 ```mermaid
 graph TB
     AuctionTerms{{"AuctionTerms"}}
